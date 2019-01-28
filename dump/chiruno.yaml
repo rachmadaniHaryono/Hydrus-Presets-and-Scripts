@@ -1,0 +1,10 @@
+!Booru
+_advance_by_page_num: true
+_image_data: null
+_image_id: main_image
+_name: chiruno
+_search_separator: +
+_search_url: https://chiru.no/a/booru/index.php?q=/post/list/%tags%/%index%
+_tag_classnames_to_namespaces: {tag_category_artist: creator, tag_category_character: character,
+  tag_category_maintag: '', tag_category_series: series}
+_thumb_classname: thumb
