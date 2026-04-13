@@ -1,5 +1,9 @@
 # 3rd party scripts run outside of the [Hydrus](https://github.com/hydrusnetwork/hydrus/) Client.
 
+## URL_Generator
+Generates URL's based on incremental ID values like Booru Post ID's.
+Input your prepend part of the url and your range of ID numbers and it generates a text file with the urls for you.
+Easy to import into Hydrus, beware: do not import massive sets of urls at once into Hydrus. This can overload Hydrus if you go too extreme.
 
 ## Hydrus Send Url.shortcut
 This is an iOS and iPad OS shortcut for sending urls to your Hydrus client. Download and import into your Shortcuts app and fill the client address, api key and the tab name it will use in Hydrus.
